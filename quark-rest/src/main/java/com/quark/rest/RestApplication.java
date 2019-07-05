@@ -24,7 +24,4 @@ public class RestApplication {
         app.setDefaultProperties(properties);
         app.run(args);
     }
-
-
 }
-

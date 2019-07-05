@@ -14,7 +14,6 @@ import java.util.Properties;
 @SpringBootApplication
 public class PortalApplication {
 
-
     public static void main(String[] args) throws IOException {
         //更改properties配置文件名称,避免依赖冲突
         Properties properties = new Properties();
