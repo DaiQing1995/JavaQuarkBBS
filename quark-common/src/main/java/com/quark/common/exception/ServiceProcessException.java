@@ -14,5 +14,4 @@ public class ServiceProcessException extends RuntimeException {
         super(message, cause);
     }
 
-
 }

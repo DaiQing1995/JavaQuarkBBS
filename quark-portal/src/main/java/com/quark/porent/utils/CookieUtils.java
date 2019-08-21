@@ -220,6 +220,4 @@ public class CookieUtils {
         }
         return domainName;
     }
-
-
 }
