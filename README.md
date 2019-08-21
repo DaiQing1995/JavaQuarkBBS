@@ -17,9 +17,9 @@
 	5、quark-chat:采用Netty+WebSocket协议搭建的聊天室服务，通过JSON传递数据，Ping-Pong心跳检测机制保证链路可用性。
 	6、使用Redis进行了热点缓存，Ehcache进行数据库的二级缓存提高应用的效率
  ![image](https://raw.githubusercontent.com/ChinaLHR/JavaQuarkBBS/master/resource/images/systemv2.png)  <br>
- ![image](https://raw.githubusercontent.com/DaiQing1995/JavaQuarkBBS/project-describe/quark-common.jpg)  <br>
- ![image](https://raw.githubusercontent.com/DaiQing1995/JavaQuarkBBS/project-describe/quark-porent.jpg)  <br>
- ![image](https://raw.githubusercontent.com/DaiQing1995/JavaQuarkBBS/project-describe/quark-rest.jpg)  <br>
+ ![image](https://github.com/DaiQing1995/JavaQuarkBBS/blob/master/project%20describe/quark-common.jpg)  <br>
+ ![image](https://github.com/DaiQing1995/JavaQuarkBBS/blob/master/project%20describe/quark-porent.jpg)  <br>
+ ![image](https://github.com/DaiQing1995/JavaQuarkBBS/blob/master/project%20describe/quark-rest.jpg)  <br>
 
 ## 运行环境
 - JDK 8
